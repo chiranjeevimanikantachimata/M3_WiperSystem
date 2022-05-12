@@ -1,6 +1,6 @@
 # **Wiper Control System**
 
-## **1 About Wiper Control System **
+## **1 About Wiper Control System**
 
 ## **1.1 Abstract**
 
