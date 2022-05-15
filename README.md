@@ -17,7 +17,7 @@
    - 1.Block Diagram
      - 1.1 High Level Flow Chart Behavioural Diagram
      - 1.2 1.1 Low Level Flow Chart Behavioural Diagram
-   - Schematic Diagramme  
+   - Schematic Diagrame  
 
 - Implementation
    - Doxygen File
